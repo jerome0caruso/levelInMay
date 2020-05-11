@@ -1,2 +1,3 @@
 # levelInMay
-This was a difficult challenge presented by
+This was a difficult challenge presented by:Bogdan Stashchuk in his Bible course.  Two files are included, my first and second attempt. 
+This challenge shows: default function parameters and using them to run another function, template literals with higher order functions, hasOwnProperty,includes, find, map, using sort method to sort key/value's from object, using a do while loop to verify that a value hasn't been duplicated from the original object nor a new value that might have been created and making a copy using a spread operator so as to not change or alter the original Object.  
